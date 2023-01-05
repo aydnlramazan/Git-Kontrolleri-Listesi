@@ -1,0 +1,30 @@
+git init: Yerel bir Git deposunu oluşturur.
+git config: Git ayarlarını yapılandırır.
+git clone: Bir Git deposunu kopyalar ve yerel bir dizine indirir.
+git add: İzlemeye alınacak dosyaları veya değişiklikleri belirtir.
+git commit: İzlemeye alınan değişiklikleri depoya kaydeder.
+git push: Yerel deposundaki değişiklikleri uzak depoya gönderir.
+git pull: Uzak depodaki değişiklikleri yerel depoya indirir.
+git branch: Yeni bir Git dalı oluşturur veya mevcut dalları listeler.
+git checkout: Bir dalın çalışma dizinine geçiş yapar veya yeni bir dal oluşturur.
+git merge: İki veya daha fazla dalı birleştirir.
+git status: Çalışma dizininde hangi dosyaların izlendiğini ve hangi değişikliklerin kaydedildiğini gösterir.
+git diff: İzlemeye alınmayan veya kaydedilmemiş değişiklikleri gösterir.
+git log: Depodaki tüm commit geçmişini gösterir.
+git reset: İzlemeye alınan dosyaları veya commitleri geri alır.
+git rm: Bir dosyayı depodan kaldırır ve izlemeye alınmış değişiklikleri geri alır.
+git stash: İzlemeye alınmayan değişiklikleri geçici olarak depolamak için kullanılır.
+git show: Belirli bir commit'in ayrıntılarını gösterir.
+git tag: Bir commit'e isimlendirilmiş bir etiket ekler.
+git fetch: Uzak depodaki değişiklikleri indirir ancak yerel depoya uygulamaz.
+git blame: Belirli bir dosyanın her satırının hangi commit tarafından değiştirildiğini gösterir.
+git cherry-pick: Belirli bir commit veya seri commit'in değişikliklerini ayrıca uygular.
+git rebase: Bir dalın commit geçmişini düzenler ve diğer bir dal üzerine yeniden uygular.
+git grep: Depodaki belirli bir düzenlemeyi arar.
+git bisect: Binary search kullanarak bir commit'te bir hata olduğunu bulmaya yardımcı olur.
+git mv: Bir dosyayı adını değiştirir ve izlemeye alınmış değişiklikleri günceller.
+git clean: İzlemeye alınmayan dosyaları ve boş dizinleri depodan kaldırır.
+git submodule: Bir Git deposunu başka bir Git deposunun alt deposu olarak ekler.
+git subtree: Bir Git deposunun bir alt dizini, başka bir Git deposunun bir dalı olarak ekler.
+git merge-base: İki dalın ortak üst üyesini bulur.
+git worktree: Aynı depoya birden fazla çalışma dizini ekler.
